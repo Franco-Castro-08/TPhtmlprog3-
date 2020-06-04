@@ -1,0 +1,21 @@
+
+h1{
+    background-color: red;
+    color: white;
+}
+
+table{
+    background-color: white;
+    text-align:left;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td{
+    border: solid 1px black;
+}
+
+thead{
+    background-color: orange;
+    color: white;
+}
